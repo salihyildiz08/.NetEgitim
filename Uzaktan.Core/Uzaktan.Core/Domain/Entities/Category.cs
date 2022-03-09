@@ -1,0 +1,11 @@
+﻿using System.Collections.Generic;
+
+namespace Uzaktan.Core.Domain.Entities
+{
+    public class Category:BaseEntity<int>
+    {
+        public string Name { get; set; }
+        public bool IsActive { get; set; }
+        public ICollection<Product> Products { get; set; }
+    }
+}
