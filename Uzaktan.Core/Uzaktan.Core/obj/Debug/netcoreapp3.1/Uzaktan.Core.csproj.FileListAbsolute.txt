@@ -1,0 +1,10 @@
+C:\Users\eksen\Desktop\proje\Uzaktan.Core\Uzaktan.Core\bin\Debug\netcoreapp3.1\Uzaktan.Core.deps.json
+C:\Users\eksen\Desktop\proje\Uzaktan.Core\Uzaktan.Core\bin\Debug\netcoreapp3.1\Uzaktan.Core.dll
+C:\Users\eksen\Desktop\proje\Uzaktan.Core\Uzaktan.Core\bin\Debug\netcoreapp3.1\Uzaktan.Core.pdb
+C:\Users\eksen\Desktop\proje\Uzaktan.Core\Uzaktan.Core\obj\Debug\netcoreapp3.1\Uzaktan.Core.csproj.AssemblyReference.cache
+C:\Users\eksen\Desktop\proje\Uzaktan.Core\Uzaktan.Core\obj\Debug\netcoreapp3.1\Uzaktan.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\eksen\Desktop\proje\Uzaktan.Core\Uzaktan.Core\obj\Debug\netcoreapp3.1\Uzaktan.Core.AssemblyInfoInputs.cache
+C:\Users\eksen\Desktop\proje\Uzaktan.Core\Uzaktan.Core\obj\Debug\netcoreapp3.1\Uzaktan.Core.AssemblyInfo.cs
+C:\Users\eksen\Desktop\proje\Uzaktan.Core\Uzaktan.Core\obj\Debug\netcoreapp3.1\Uzaktan.Core.csproj.CoreCompileInputs.cache
+C:\Users\eksen\Desktop\proje\Uzaktan.Core\Uzaktan.Core\obj\Debug\netcoreapp3.1\Uzaktan.Core.dll
+C:\Users\eksen\Desktop\proje\Uzaktan.Core\Uzaktan.Core\obj\Debug\netcoreapp3.1\Uzaktan.Core.pdb
